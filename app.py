@@ -304,4 +304,4 @@ def toggle_modal(n1, n2, is_open):
 
 if __name__ == '__main__':
     allow_duplicate=True
-    app.run_server(debug=True)
+    app.run_server(debug=False)
