@@ -1,0 +1,551 @@
+stemmested,year,avg salary
+Hele landet,2007,269032
+Hele landet,2011,282647
+Hele landet,2015,308144
+Hele landet,2019,338122
+Hele landet,2022,371900
+Landsdel Byen København,2007,264790
+Landsdel Byen København,2011,286737
+Landsdel Byen København,2015,314970
+Landsdel Byen København,2019,353203
+Landsdel Byen København,2022,392878
+København,2007,255185
+København,2011,277048
+København,2015,304699
+København,2019,342385
+København,2022,383030
+Frederiksberg,2007,306039
+Frederiksberg,2011,326855
+Frederiksberg,2015,364056
+Frederiksberg,2019,412387
+Frederiksberg,2022,451144
+Dragør,2007,328772
+Dragør,2011,366796
+Dragør,2015,395557
+Dragør,2019,437574
+Dragør,2022,472765
+Tårnby,2007,269854
+Tårnby,2011,291759
+Tårnby,2015,310723
+Tårnby,2019,339955
+Tårnby,2022,372285
+Landsdel Københavns omegn,2007,303249
+Landsdel Københavns omegn,2011,320556
+Landsdel Københavns omegn,2015,361721
+Landsdel Københavns omegn,2019,388125
+Landsdel Københavns omegn,2022,427051
+Albertslund,2007,248985
+Albertslund,2011,259955
+Albertslund,2015,275786
+Albertslund,2019,295184
+Albertslund,2022,322050
+Ballerup,2007,273451
+Ballerup,2011,289781
+Ballerup,2015,314747
+Ballerup,2019,339849
+Ballerup,2022,369658
+Brøndby,2007,248438
+Brøndby,2011,261804
+Brøndby,2015,273606
+Brøndby,2019,295586
+Brøndby,2022,321585
+Gentofte,2007,467806
+Gentofte,2011,485273
+Gentofte,2015,611952
+Gentofte,2019,663328
+Gentofte,2022,744111
+Gladsaxe,2007,282406
+Gladsaxe,2011,303516
+Gladsaxe,2015,328195
+Gladsaxe,2019,357810
+Gladsaxe,2022,394784
+Glostrup,2007,273732
+Glostrup,2011,290727
+Glostrup,2015,308247
+Glostrup,2019,331431
+Glostrup,2022,362639
+Herlev,2007,266147
+Herlev,2011,286920
+Herlev,2015,307022
+Herlev,2019,334649
+Herlev,2022,364777
+Hvidovre,2007,263065
+Hvidovre,2011,280589
+Hvidovre,2015,300369
+Hvidovre,2019,328742
+Hvidovre,2022,362017
+Høje-Taastrup,2007,272145
+Høje-Taastrup,2011,282688
+Høje-Taastrup,2015,295065
+Høje-Taastrup,2019,318459
+Høje-Taastrup,2022,344570
+Ishøj,2007,247706
+Ishøj,2011,257168
+Ishøj,2015,268993
+Ishøj,2019,290740
+Ishøj,2022,319991
+Lyngby-Taarbæk,2007,353114
+Lyngby-Taarbæk,2011,375443
+Lyngby-Taarbæk,2015,463346
+Lyngby-Taarbæk,2019,470822
+Lyngby-Taarbæk,2022,521510
+Rødovre,2007,263236
+Rødovre,2011,278523
+Rødovre,2015,302880
+Rødovre,2019,330436
+Rødovre,2022,363577
+Vallensbæk,2007,310855
+Vallensbæk,2011,320512
+Vallensbæk,2015,343110
+Vallensbæk,2019,358542
+Vallensbæk,2022,387237
+Landsdel Nordsjælland,2007,332100
+Landsdel Nordsjælland,2011,343370
+Landsdel Nordsjælland,2015,379354
+Landsdel Nordsjælland,2019,414861
+Landsdel Nordsjælland,2022,444004
+Allerød,2007,357408
+Allerød,2011,379782
+Allerød,2015,401109
+Allerød,2019,437980
+Allerød,2022,471017
+Egedal,2007,320376
+Egedal,2011,333340
+Egedal,2015,358261
+Egedal,2019,382190
+Egedal,2022,410756
+Fredensborg,2007,329843
+Fredensborg,2011,342416
+Fredensborg,2015,382642
+Fredensborg,2019,411693
+Fredensborg,2022,430982
+Frederikssund,2007,287370
+Frederikssund,2011,296106
+Frederikssund,2015,316831
+Frederikssund,2019,341632
+Frederikssund,2022,375203
+Furesø,2007,347257
+Furesø,2011,366142
+Furesø,2015,398031
+Furesø,2019,441619
+Furesø,2022,472637
+Gribskov,2007,288008
+Gribskov,2011,295048
+Gribskov,2015,317617
+Gribskov,2019,340353
+Gribskov,2022,375897
+Halsnæs,2007,259693
+Halsnæs,2011,272706
+Halsnæs,2015,294684
+Halsnæs,2019,317475
+Halsnæs,2022,343759
+Helsingør,2007,297878
+Helsingør,2011,303564
+Helsingør,2015,334411
+Helsingør,2019,364897
+Helsingør,2022,396992
+Hillerød,2007,307165
+Hillerød,2011,321930
+Hillerød,2015,355401
+Hillerød,2019,375970
+Hillerød,2022,411800
+Hørsholm,2007,456238
+Hørsholm,2011,454837
+Hørsholm,2015,504636
+Hørsholm,2019,552971
+Hørsholm,2022,586706
+Rudersdal,2007,439930
+Rudersdal,2011,452464
+Rudersdal,2015,534903
+Rudersdal,2019,619415
+Rudersdal,2022,638024
+Landsdel Bornholm,2007,224673
+Landsdel Bornholm,2011,243998
+Landsdel Bornholm,2015,262203
+Landsdel Bornholm,2019,291198
+Landsdel Bornholm,2022,311362
+Bornholm,2007,224673
+Bornholm,2011,243998
+Bornholm,2015,262203
+Bornholm,2019,291198
+Bornholm,2022,311362
+Landsdel Østsjælland,2007,300898
+Landsdel Østsjælland,2011,310861
+Landsdel Østsjælland,2015,334500
+Landsdel Østsjælland,2019,366362
+Landsdel Østsjælland,2022,397610
+Greve,2007,311442
+Greve,2011,315484
+Greve,2015,334804
+Greve,2019,360347
+Greve,2022,389332
+Køge,2007,279334
+Køge,2011,290079
+Køge,2015,311097
+Køge,2019,339180
+Køge,2022,371967
+Lejre,2007,298882
+Lejre,2011,315855
+Lejre,2015,337277
+Lejre,2019,366862
+Lejre,2022,397523
+Roskilde,2007,302285
+Roskilde,2011,315354
+Roskilde,2015,342134
+Roskilde,2019,377376
+Roskilde,2022,411307
+Solrød,2007,333108
+Solrød,2011,332781
+Solrød,2015,364750
+Solrød,2019,409689
+Solrød,2022,431338
+Landsdel Vest- og Sydsjælland,2007,252523
+Landsdel Vest- og Sydsjælland,2011,263707
+Landsdel Vest- og Sydsjælland,2015,284229
+Landsdel Vest- og Sydsjælland,2019,309143
+Landsdel Vest- og Sydsjælland,2022,341298
+Faxe,2007,265586
+Faxe,2011,273599
+Faxe,2015,290296
+Faxe,2019,316447
+Faxe,2022,347278
+Guldborgsund,2007,233622
+Guldborgsund,2011,244152
+Guldborgsund,2015,267372
+Guldborgsund,2019,289707
+Guldborgsund,2022,321340
+Holbæk,2007,265893
+Holbæk,2011,278393
+Holbæk,2015,302431
+Holbæk,2019,327589
+Holbæk,2022,362477
+Kalundborg,2007,257418
+Kalundborg,2011,267457
+Kalundborg,2015,292268
+Kalundborg,2019,313234
+Kalundborg,2022,345014
+Lolland,2007,219769
+Lolland,2011,237375
+Lolland,2015,256398
+Lolland,2019,276923
+Lolland,2022,306887
+Næstved,2007,260530
+Næstved,2011,271004
+Næstved,2015,288941
+Næstved,2019,315629
+Næstved,2022,344724
+Odsherred,2007,245661
+Odsherred,2011,252743
+Odsherred,2015,271584
+Odsherred,2019,294814
+Odsherred,2022,323658
+Ringsted,2007,270675
+Ringsted,2011,281999
+Ringsted,2015,300358
+Ringsted,2019,328577
+Ringsted,2022,360008
+Slagelse,2007,252904
+Slagelse,2011,260868
+Slagelse,2015,277129
+Slagelse,2019,303009
+Slagelse,2022,337047
+Sorø,2007,265225
+Sorø,2011,277830
+Sorø,2015,302594
+Sorø,2019,331063
+Sorø,2022,358972
+Stevns,2007,267297
+Stevns,2011,280172
+Stevns,2015,299755
+Stevns,2019,330035
+Stevns,2022,360671
+Vordingborg,2007,243240
+Vordingborg,2011,254837
+Vordingborg,2015,275865
+Vordingborg,2019,297340
+Vordingborg,2022,334910
+Landsdel Fyn,2007,247122
+Landsdel Fyn,2011,261474
+Landsdel Fyn,2015,280597
+Landsdel Fyn,2019,306467
+Landsdel Fyn,2022,336291
+Assens,2007,250465
+Assens,2011,262639
+Assens,2015,279089
+Assens,2019,307255
+Assens,2022,333231
+Faaborg-Midtfyn,2007,245010
+Faaborg-Midtfyn,2011,257817
+Faaborg-Midtfyn,2015,278217
+Faaborg-Midtfyn,2019,303491
+Faaborg-Midtfyn,2022,333316
+Kerteminde,2007,259132
+Kerteminde,2011,268944
+Kerteminde,2015,291161
+Kerteminde,2019,319218
+Kerteminde,2022,351021
+Langeland,2007,219977
+Langeland,2011,231100
+Langeland,2015,247889
+Langeland,2019,273927
+Langeland,2022,298690
+Middelfart,2007,266468
+Middelfart,2011,281700
+Middelfart,2015,309662
+Middelfart,2019,346553
+Middelfart,2022,380569
+Nordfyns,2007,244530
+Nordfyns,2011,260881
+Nordfyns,2015,278900
+Nordfyns,2019,305767
+Nordfyns,2022,333427
+Nyborg,2007,245837
+Nyborg,2011,262825
+Nyborg,2015,278787
+Nyborg,2019,305597
+Nyborg,2022,334811
+Odense,2007,245604
+Odense,2011,260104
+Odense,2015,277392
+Odense,2019,299596
+Odense,2022,329574
+Svendborg,2007,245658
+Svendborg,2011,262339
+Svendborg,2015,283894
+Svendborg,2019,312320
+Svendborg,2022,343191
+Ærø,2007,227712
+Ærø,2011,236411
+Ærø,2015,254644
+Ærø,2019,275369
+Ærø,2022,298257
+Landsdel Sydjylland,2007,259028
+Landsdel Sydjylland,2011,270942
+Landsdel Sydjylland,2015,292191
+Landsdel Sydjylland,2019,321709
+Landsdel Sydjylland,2022,354668
+Billund,2007,267100
+Billund,2011,276243
+Billund,2015,298105
+Billund,2019,330078
+Billund,2022,365635
+Esbjerg,2007,258076
+Esbjerg,2011,273569
+Esbjerg,2015,294849
+Esbjerg,2019,323003
+Esbjerg,2022,354270
+Fanø,2007,276948
+Fanø,2011,292860
+Fanø,2015,311302
+Fanø,2019,332734
+Fanø,2022,356100
+Fredericia,2007,263683
+Fredericia,2011,275355
+Fredericia,2015,295812
+Fredericia,2019,320608
+Fredericia,2022,353985
+Haderslev,2007,253521
+Haderslev,2011,262565
+Haderslev,2015,280738
+Haderslev,2019,307969
+Haderslev,2022,335529
+Kolding,2007,269683
+Kolding,2011,282190
+Kolding,2015,303927
+Kolding,2019,332888
+Kolding,2022,366491
+Sønderborg,2007,248417
+Sønderborg,2011,264899
+Sønderborg,2015,282945
+Sønderborg,2019,312845
+Sønderborg,2022,340968
+Tønder,2007,240445
+Tønder,2011,245577
+Tønder,2015,263345
+Tønder,2019,298550
+Tønder,2022,333132
+Varde,2007,257491
+Varde,2011,266031
+Varde,2015,286346
+Varde,2019,314202
+Varde,2022,351378
+Vejen,2007,249849
+Vejen,2011,260131
+Vejen,2015,287526
+Vejen,2019,315692
+Vejen,2022,353416
+Vejle,2007,272645
+Vejle,2011,284653
+Vejle,2015,310525
+Vejle,2019,343644
+Vejle,2022,378172
+Aabenraa,2007,252526
+Aabenraa,2011,261635
+Aabenraa,2015,277947
+Aabenraa,2019,305855
+Aabenraa,2022,337605
+Landsdel Østjylland,2007,264708
+Landsdel Østjylland,2011,274755
+Landsdel Østjylland,2015,300331
+Landsdel Østjylland,2019,328745
+Landsdel Østjylland,2022,362504
+Favrskov,2007,273010
+Favrskov,2011,287496
+Favrskov,2015,309921
+Favrskov,2019,341952
+Favrskov,2022,377631
+Hedensted,2007,269249
+Hedensted,2011,277368
+Hedensted,2015,305408
+Hedensted,2019,331872
+Hedensted,2022,367832
+Horsens,2007,260931
+Horsens,2011,271651
+Horsens,2015,293193
+Horsens,2019,325451
+Horsens,2022,356344
+Norddjurs,2007,240799
+Norddjurs,2011,250674
+Norddjurs,2015,268649
+Norddjurs,2019,294950
+Norddjurs,2022,327123
+Odder,2007,266762
+Odder,2011,280988
+Odder,2015,301469
+Odder,2019,330256
+Odder,2022,359591
+Randers,2007,252698
+Randers,2011,263499
+Randers,2015,280907
+Randers,2019,308386
+Randers,2022,340816
+Samsø,2007,229392
+Samsø,2011,244605
+Samsø,2015,273793
+Samsø,2019,297801
+Samsø,2022,321390
+Silkeborg,2007,281787
+Silkeborg,2011,277189
+Silkeborg,2015,306948
+Silkeborg,2019,340637
+Silkeborg,2022,379883
+Skanderborg,2007,289157
+Skanderborg,2011,305479
+Skanderborg,2015,333338
+Skanderborg,2019,366933
+Skanderborg,2022,403433
+Syddjurs,2007,273370
+Syddjurs,2011,271923
+Syddjurs,2015,295206
+Syddjurs,2019,324847
+Syddjurs,2022,352364
+Aarhus,2007,260679
+Aarhus,2011,274041
+Aarhus,2015,303066
+Aarhus,2019,327869
+Aarhus,2022,361364
+Landsdel Vestjylland,2007,260719
+Landsdel Vestjylland,2011,270479
+Landsdel Vestjylland,2015,288798
+Landsdel Vestjylland,2019,318336
+Landsdel Vestjylland,2022,350465
+Herning,2007,264035
+Herning,2011,279511
+Herning,2015,291084
+Herning,2019,322493
+Herning,2022,358379
+Holstebro,2007,264603
+Holstebro,2011,270667
+Holstebro,2015,291755
+Holstebro,2019,314745
+Holstebro,2022,349412
+Ikast-Brande,2007,265750
+Ikast-Brande,2011,268633
+Ikast-Brande,2015,288390
+Ikast-Brande,2019,324890
+Ikast-Brande,2022,348055
+Lemvig,2007,254193
+Lemvig,2011,264969
+Lemvig,2015,290905
+Lemvig,2019,317157
+Lemvig,2022,353197
+Ringkøbing-Skjern,2007,260713
+Ringkøbing-Skjern,2011,269605
+Ringkøbing-Skjern,2015,289490
+Ringkøbing-Skjern,2019,317349
+Ringkøbing-Skjern,2022,348794
+Skive,2007,249281
+Skive,2011,256348
+Skive,2015,276127
+Skive,2019,305678
+Skive,2022,339014
+Struer,2007,250890
+Struer,2011,263386
+Struer,2015,276057
+Struer,2019,300986
+Struer,2022,332380
+Viborg,2007,263217
+Viborg,2011,273709
+Viborg,2015,293476
+Viborg,2019,324806
+Viborg,2022,354679
+Landsdel Nordjylland,2007,247858
+Landsdel Nordjylland,2011,261412
+Landsdel Nordjylland,2015,281154
+Landsdel Nordjylland,2019,309448
+Landsdel Nordjylland,2022,341854
+Brønderslev,2007,244215
+Brønderslev,2011,258440
+Brønderslev,2015,279391
+Brønderslev,2019,308082
+Brønderslev,2022,339070
+Frederikshavn,2007,245591
+Frederikshavn,2011,258961
+Frederikshavn,2015,279647
+Frederikshavn,2019,303939
+Frederikshavn,2022,332902
+Hjørring,2007,241847
+Hjørring,2011,258604
+Hjørring,2015,280522
+Hjørring,2019,307772
+Hjørring,2022,336152
+Jammerbugt,2007,246635
+Jammerbugt,2011,260417
+Jammerbugt,2015,278296
+Jammerbugt,2019,302417
+Jammerbugt,2022,334108
+Læsø,2007,228052
+Læsø,2011,237970
+Læsø,2015,252038
+Læsø,2019,277551
+Læsø,2022,296061
+Mariagerfjord,2007,249925
+Mariagerfjord,2011,261598
+Mariagerfjord,2015,279997
+Mariagerfjord,2019,312392
+Mariagerfjord,2022,346165
+Morsø,2007,230181
+Morsø,2011,243482
+Morsø,2015,263783
+Morsø,2019,296882
+Morsø,2022,329492
+Rebild,2007,263071
+Rebild,2011,282335
+Rebild,2015,307115
+Rebild,2019,345560
+Rebild,2022,383846
+Thisted,2007,248696
+Thisted,2011,254421
+Thisted,2015,275604
+Thisted,2019,306245
+Thisted,2022,336003
+Vesthimmerlands,2007,243115
+Vesthimmerlands,2011,252155
+Vesthimmerlands,2015,269902
+Vesthimmerlands,2019,302365
+Vesthimmerlands,2022,339304
+Aalborg,2007,251853
+Aalborg,2011,266269
+Aalborg,2015,284504
+Aalborg,2019,310886
+Aalborg,2022,344376

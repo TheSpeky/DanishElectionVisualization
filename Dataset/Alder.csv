@@ -1,0 +1,1576 @@
+stemmested,year,køn,alder
+Hele landet,2007,I alt,39.9
+Hele landet,2011,I alt,40.4
+Hele landet,2015,I alt,41.1
+Hele landet,2019,I alt,41.7
+Hele landet,2022,I alt,42.2
+Hele landet,2007,Mænd,38.8
+Hele landet,2011,Mænd,39.4
+Hele landet,2015,Mænd,40.2
+Hele landet,2019,Mænd,40.8
+Hele landet,2022,Mænd,41.3
+Hele landet,2007,Kvinder,41.0
+Hele landet,2011,Kvinder,41.3
+Hele landet,2015,Kvinder,42.0
+Hele landet,2019,Kvinder,42.5
+Hele landet,2022,Kvinder,43.0
+Region Hovedstaden,2007,I alt,39.5
+Region Hovedstaden,2011,I alt,39.5
+Region Hovedstaden,2015,I alt,39.8
+Region Hovedstaden,2019,I alt,40.1
+Region Hovedstaden,2022,I alt,40.5
+Region Hovedstaden,2007,Mænd,38.2
+Region Hovedstaden,2011,Mænd,38.3
+Region Hovedstaden,2015,Mænd,38.7
+Region Hovedstaden,2019,Mænd,39.1
+Region Hovedstaden,2022,Mænd,39.5
+Region Hovedstaden,2007,Kvinder,40.7
+Region Hovedstaden,2011,Kvinder,40.6
+Region Hovedstaden,2015,Kvinder,40.7
+Region Hovedstaden,2019,Kvinder,41.0
+Region Hovedstaden,2022,Kvinder,41.4
+København,2007,I alt,37.0
+København,2011,I alt,36.2
+København,2015,I alt,35.9
+København,2019,I alt,36.0
+København,2022,I alt,36.3
+København,2007,Mænd,35.9
+København,2011,Mænd,35.5
+København,2015,Mænd,35.4
+København,2019,Mænd,35.6
+København,2022,Mænd,36.0
+København,2007,Kvinder,38.1
+København,2011,Kvinder,36.9
+København,2015,Kvinder,36.4
+København,2019,Kvinder,36.4
+København,2022,Kvinder,36.7
+Frederiksberg,2007,I alt,40.7
+Frederiksberg,2011,I alt,39.6
+Frederiksberg,2015,I alt,39.4
+Frederiksberg,2019,I alt,39.8
+Frederiksberg,2022,I alt,40.4
+Frederiksberg,2007,Mænd,38.7
+Frederiksberg,2011,Mænd,37.9
+Frederiksberg,2015,Mænd,38.0
+Frederiksberg,2019,Mænd,38.4
+Frederiksberg,2022,Mænd,39.0
+Frederiksberg,2007,Kvinder,42.5
+Frederiksberg,2011,Kvinder,41.1
+Frederiksberg,2015,Kvinder,40.6
+Frederiksberg,2019,Kvinder,41.1
+Frederiksberg,2022,Kvinder,41.6
+Dragør,2007,I alt,42.6
+Dragør,2011,I alt,43.2
+Dragør,2015,I alt,43.9
+Dragør,2019,I alt,44.4
+Dragør,2022,I alt,44.6
+Dragør,2007,Mænd,41.4
+Dragør,2011,Mænd,42.1
+Dragør,2015,Mænd,42.9
+Dragør,2019,Mænd,43.3
+Dragør,2022,Mænd,43.4
+Dragør,2007,Kvinder,43.7
+Dragør,2011,Kvinder,44.2
+Dragør,2015,Kvinder,44.9
+Dragør,2019,Kvinder,45.4
+Dragør,2022,Kvinder,45.7
+Tårnby,2007,I alt,41.5
+Tårnby,2011,I alt,41.4
+Tårnby,2015,I alt,41.4
+Tårnby,2019,I alt,41.5
+Tårnby,2022,I alt,41.7
+Tårnby,2007,Mænd,40.2
+Tårnby,2011,Mænd,40.3
+Tårnby,2015,Mænd,40.2
+Tårnby,2019,Mænd,40.3
+Tårnby,2022,Mænd,40.6
+Tårnby,2007,Kvinder,42.8
+Tårnby,2011,Kvinder,42.5
+Tårnby,2015,Kvinder,42.6
+Tårnby,2019,Kvinder,42.7
+Tårnby,2022,Kvinder,42.9
+Albertslund,2007,I alt,37.2
+Albertslund,2011,I alt,38.1
+Albertslund,2015,I alt,39.1
+Albertslund,2019,I alt,39.9
+Albertslund,2022,I alt,40.5
+Albertslund,2007,Mænd,36.2
+Albertslund,2011,Mænd,37.2
+Albertslund,2015,Mænd,38.1
+Albertslund,2019,Mænd,38.8
+Albertslund,2022,Mænd,39.4
+Albertslund,2007,Kvinder,38.2
+Albertslund,2011,Kvinder,38.9
+Albertslund,2015,Kvinder,40.2
+Albertslund,2019,Kvinder,41.0
+Albertslund,2022,Kvinder,41.6
+Ballerup,2007,I alt,40.2
+Ballerup,2011,I alt,40.8
+Ballerup,2015,I alt,41.7
+Ballerup,2019,I alt,42.2
+Ballerup,2022,I alt,42.3
+Ballerup,2007,Mænd,39.1
+Ballerup,2011,Mænd,39.6
+Ballerup,2015,Mænd,40.3
+Ballerup,2019,Mænd,41.0
+Ballerup,2022,Mænd,40.9
+Ballerup,2007,Kvinder,41.3
+Ballerup,2011,Kvinder,42.0
+Ballerup,2015,Kvinder,43.0
+Ballerup,2019,Kvinder,43.5
+Ballerup,2022,Kvinder,43.7
+Brøndby,2007,I alt,40.7
+Brøndby,2011,I alt,41.2
+Brøndby,2015,I alt,41.3
+Brøndby,2019,I alt,41.5
+Brøndby,2022,I alt,41.6
+Brøndby,2007,Mænd,39.5
+Brøndby,2011,Mænd,39.9
+Brøndby,2015,Mænd,40.0
+Brøndby,2019,Mænd,40.4
+Brøndby,2022,Mænd,40.6
+Brøndby,2007,Kvinder,41.8
+Brøndby,2011,Kvinder,42.4
+Brøndby,2015,Kvinder,42.5
+Brøndby,2019,Kvinder,42.6
+Brøndby,2022,Kvinder,42.6
+Gentofte,2007,I alt,41.5
+Gentofte,2011,I alt,41.2
+Gentofte,2015,I alt,41.4
+Gentofte,2019,I alt,42.2
+Gentofte,2022,I alt,43.0
+Gentofte,2007,Mænd,39.4
+Gentofte,2011,Mænd,39.5
+Gentofte,2015,Mænd,39.9
+Gentofte,2019,Mænd,40.7
+Gentofte,2022,Mænd,41.5
+Gentofte,2007,Kvinder,43.3
+Gentofte,2011,Kvinder,42.7
+Gentofte,2015,Kvinder,42.8
+Gentofte,2019,Kvinder,43.7
+Gentofte,2022,Kvinder,44.5
+Gladsaxe,2007,I alt,40.1
+Gladsaxe,2011,I alt,39.7
+Gladsaxe,2015,I alt,39.7
+Gladsaxe,2019,I alt,39.8
+Gladsaxe,2022,I alt,40.1
+Gladsaxe,2007,Mænd,38.2
+Gladsaxe,2011,Mænd,37.9
+Gladsaxe,2015,Mænd,38.1
+Gladsaxe,2019,Mænd,38.3
+Gladsaxe,2022,Mænd,38.6
+Gladsaxe,2007,Kvinder,41.9
+Gladsaxe,2011,Kvinder,41.3
+Gladsaxe,2015,Kvinder,41.3
+Gladsaxe,2019,Kvinder,41.3
+Gladsaxe,2022,Kvinder,41.6
+Glostrup,2007,I alt,41.2
+Glostrup,2011,I alt,41.1
+Glostrup,2015,I alt,41.1
+Glostrup,2019,I alt,41.4
+Glostrup,2022,I alt,41.3
+Glostrup,2007,Mænd,39.3
+Glostrup,2011,Mænd,39.3
+Glostrup,2015,Mænd,39.3
+Glostrup,2019,Mænd,39.8
+Glostrup,2022,Mænd,39.6
+Glostrup,2007,Kvinder,42.9
+Glostrup,2011,Kvinder,42.9
+Glostrup,2015,Kvinder,42.8
+Glostrup,2019,Kvinder,43.0
+Glostrup,2022,Kvinder,43.0
+Herlev,2007,I alt,40.9
+Herlev,2011,I alt,41.3
+Herlev,2015,I alt,41.0
+Herlev,2019,I alt,41.2
+Herlev,2022,I alt,41.5
+Herlev,2007,Mænd,39.2
+Herlev,2011,Mænd,39.6
+Herlev,2015,Mænd,39.3
+Herlev,2019,Mænd,39.7
+Herlev,2022,Mænd,40.0
+Herlev,2007,Kvinder,42.4
+Herlev,2011,Kvinder,42.8
+Herlev,2015,Kvinder,42.5
+Herlev,2019,Kvinder,42.6
+Herlev,2022,Kvinder,43.0
+Hvidovre,2007,I alt,39.9
+Hvidovre,2011,I alt,40.0
+Hvidovre,2015,I alt,40.0
+Hvidovre,2019,I alt,40.0
+Hvidovre,2022,I alt,40.4
+Hvidovre,2007,Mænd,38.5
+Hvidovre,2011,Mænd,38.7
+Hvidovre,2015,Mænd,38.8
+Hvidovre,2019,Mænd,38.8
+Hvidovre,2022,Mænd,39.2
+Hvidovre,2007,Kvinder,41.1
+Hvidovre,2011,Kvinder,41.3
+Hvidovre,2015,Kvinder,41.1
+Hvidovre,2019,Kvinder,41.1
+Hvidovre,2022,Kvinder,41.5
+Høje-Taastrup,2007,I alt,38.3
+Høje-Taastrup,2011,I alt,38.9
+Høje-Taastrup,2015,I alt,39.7
+Høje-Taastrup,2019,I alt,40.3
+Høje-Taastrup,2022,I alt,40.3
+Høje-Taastrup,2007,Mænd,37.4
+Høje-Taastrup,2011,Mænd,38.0
+Høje-Taastrup,2015,Mænd,38.9
+Høje-Taastrup,2019,Mænd,39.4
+Høje-Taastrup,2022,Mænd,39.5
+Høje-Taastrup,2007,Kvinder,39.2
+Høje-Taastrup,2011,Kvinder,39.8
+Høje-Taastrup,2015,Kvinder,40.5
+Høje-Taastrup,2019,Kvinder,41.1
+Høje-Taastrup,2022,Kvinder,41.2
+Ishøj,2007,I alt,36.7
+Ishøj,2011,I alt,37.8
+Ishøj,2015,I alt,38.5
+Ishøj,2019,I alt,39.0
+Ishøj,2022,I alt,39.7
+Ishøj,2007,Mænd,36.2
+Ishøj,2011,Mænd,37.3
+Ishøj,2015,Mænd,37.8
+Ishøj,2019,Mænd,38.4
+Ishøj,2022,Mænd,39.1
+Ishøj,2007,Kvinder,37.2
+Ishøj,2011,Kvinder,38.4
+Ishøj,2015,Kvinder,39.2
+Ishøj,2019,Kvinder,39.6
+Ishøj,2022,Kvinder,40.3
+Lyngby-Taarbæk,2007,I alt,42.2
+Lyngby-Taarbæk,2011,I alt,41.8
+Lyngby-Taarbæk,2015,I alt,41.7
+Lyngby-Taarbæk,2019,I alt,41.7
+Lyngby-Taarbæk,2022,I alt,41.5
+Lyngby-Taarbæk,2007,Mænd,39.7
+Lyngby-Taarbæk,2011,Mænd,39.4
+Lyngby-Taarbæk,2015,Mænd,39.4
+Lyngby-Taarbæk,2019,Mænd,39.6
+Lyngby-Taarbæk,2022,Mænd,39.5
+Lyngby-Taarbæk,2007,Kvinder,44.5
+Lyngby-Taarbæk,2011,Kvinder,44.0
+Lyngby-Taarbæk,2015,Kvinder,43.8
+Lyngby-Taarbæk,2019,Kvinder,43.6
+Lyngby-Taarbæk,2022,Kvinder,43.5
+Rødovre,2007,I alt,41.3
+Rødovre,2011,I alt,41.2
+Rødovre,2015,I alt,41.3
+Rødovre,2019,I alt,40.8
+Rødovre,2022,I alt,40.9
+Rødovre,2007,Mænd,39.5
+Rødovre,2011,Mænd,39.4
+Rødovre,2015,Mænd,39.5
+Rødovre,2019,Mænd,39.2
+Rødovre,2022,Mænd,39.3
+Rødovre,2007,Kvinder,43.0
+Rødovre,2011,Kvinder,42.9
+Rødovre,2015,Kvinder,43.0
+Rødovre,2019,Kvinder,42.4
+Rødovre,2022,Kvinder,42.4
+Vallensbæk,2007,I alt,40.6
+Vallensbæk,2011,I alt,39.3
+Vallensbæk,2015,I alt,39.8
+Vallensbæk,2019,I alt,39.7
+Vallensbæk,2022,I alt,40.3
+Vallensbæk,2007,Mænd,40.1
+Vallensbæk,2011,Mænd,38.5
+Vallensbæk,2015,Mænd,39.0
+Vallensbæk,2019,Mænd,38.9
+Vallensbæk,2022,Mænd,39.4
+Vallensbæk,2007,Kvinder,41.0
+Vallensbæk,2011,Kvinder,40.2
+Vallensbæk,2015,Kvinder,40.6
+Vallensbæk,2019,Kvinder,40.4
+Vallensbæk,2022,Kvinder,41.1
+Allerød,2007,I alt,39.0
+Allerød,2011,I alt,40.2
+Allerød,2015,I alt,41.7
+Allerød,2019,I alt,42.2
+Allerød,2022,I alt,42.7
+Allerød,2007,Mænd,38.0
+Allerød,2011,Mænd,39.4
+Allerød,2015,Mænd,40.9
+Allerød,2019,Mænd,41.3
+Allerød,2022,Mænd,41.7
+Allerød,2007,Kvinder,39.9
+Allerød,2011,Kvinder,40.9
+Allerød,2015,Kvinder,42.6
+Allerød,2019,Kvinder,43.1
+Allerød,2022,Kvinder,43.7
+Egedal,2007,I alt,37.8
+Egedal,2011,I alt,38.9
+Egedal,2015,I alt,40.3
+Egedal,2019,I alt,41.3
+Egedal,2022,I alt,41.6
+Egedal,2007,Mænd,37.4
+Egedal,2011,Mænd,38.4
+Egedal,2015,Mænd,39.7
+Egedal,2019,Mænd,40.6
+Egedal,2022,Mænd,40.8
+Egedal,2007,Kvinder,38.2
+Egedal,2011,Kvinder,39.4
+Egedal,2015,Kvinder,40.9
+Egedal,2019,Kvinder,42.0
+Egedal,2022,Kvinder,42.4
+Fredensborg,2007,I alt,39.9
+Fredensborg,2011,I alt,41.2
+Fredensborg,2015,I alt,42.6
+Fredensborg,2019,I alt,43.6
+Fredensborg,2022,I alt,44.2
+Fredensborg,2007,Mænd,39.0
+Fredensborg,2011,Mænd,40.3
+Fredensborg,2015,Mænd,41.7
+Fredensborg,2019,Mænd,42.6
+Fredensborg,2022,Mænd,43.1
+Fredensborg,2007,Kvinder,40.8
+Fredensborg,2011,Kvinder,42.1
+Fredensborg,2015,Kvinder,43.6
+Fredensborg,2019,Kvinder,44.5
+Fredensborg,2022,Kvinder,45.1
+Frederikssund,2007,I alt,40.3
+Frederikssund,2011,I alt,41.6
+Frederikssund,2015,I alt,43.2
+Frederikssund,2019,I alt,44.4
+Frederikssund,2022,I alt,45.5
+Frederikssund,2007,Mænd,39.4
+Frederikssund,2011,Mænd,40.7
+Frederikssund,2015,Mænd,42.3
+Frederikssund,2019,Mænd,43.4
+Frederikssund,2022,Mænd,44.4
+Frederikssund,2007,Kvinder,41.1
+Frederikssund,2011,Kvinder,42.5
+Frederikssund,2015,Kvinder,44.1
+Frederikssund,2019,Kvinder,45.4
+Frederikssund,2022,Kvinder,46.5
+Furesø,2007,I alt,40.2
+Furesø,2011,I alt,41.0
+Furesø,2015,I alt,42.1
+Furesø,2019,I alt,42.4
+Furesø,2022,I alt,42.9
+Furesø,2007,Mænd,39.1
+Furesø,2011,Mænd,40.0
+Furesø,2015,Mænd,40.9
+Furesø,2019,Mænd,41.2
+Furesø,2022,Mænd,41.6
+Furesø,2007,Kvinder,41.3
+Furesø,2011,Kvinder,42.1
+Furesø,2015,Kvinder,43.2
+Furesø,2019,Kvinder,43.6
+Furesø,2022,Kvinder,44.2
+Gribskov,2007,I alt,41.6
+Gribskov,2011,I alt,43.2
+Gribskov,2015,I alt,44.9
+Gribskov,2019,I alt,46.3
+Gribskov,2022,I alt,47.5
+Gribskov,2007,Mænd,41.0
+Gribskov,2011,Mænd,42.5
+Gribskov,2015,Mænd,44.2
+Gribskov,2019,Mænd,45.5
+Gribskov,2022,Mænd,46.6
+Gribskov,2007,Kvinder,42.3
+Gribskov,2011,Kvinder,43.9
+Gribskov,2015,Kvinder,45.7
+Gribskov,2019,Kvinder,47.2
+Gribskov,2022,Kvinder,48.4
+Halsnæs,2007,I alt,41.8
+Halsnæs,2011,I alt,42.9
+Halsnæs,2015,I alt,44.6
+Halsnæs,2019,I alt,45.9
+Halsnæs,2022,I alt,47.1
+Halsnæs,2007,Mænd,41.0
+Halsnæs,2011,Mænd,42.1
+Halsnæs,2015,Mænd,43.8
+Halsnæs,2019,Mænd,45.0
+Halsnæs,2022,Mænd,46.1
+Halsnæs,2007,Kvinder,42.6
+Halsnæs,2011,Kvinder,43.7
+Halsnæs,2015,Kvinder,45.5
+Halsnæs,2019,Kvinder,46.7
+Halsnæs,2022,Kvinder,48.1
+Helsingør,2007,I alt,41.2
+Helsingør,2011,I alt,42.1
+Helsingør,2015,I alt,43.4
+Helsingør,2019,I alt,44.6
+Helsingør,2022,I alt,45.5
+Helsingør,2007,Mænd,39.8
+Helsingør,2011,Mænd,40.8
+Helsingør,2015,Mænd,42.2
+Helsingør,2019,Mænd,43.4
+Helsingør,2022,Mænd,44.3
+Helsingør,2007,Kvinder,42.5
+Helsingør,2011,Kvinder,43.3
+Helsingør,2015,Kvinder,44.6
+Helsingør,2019,Kvinder,45.8
+Helsingør,2022,Kvinder,46.7
+Hillerød,2007,I alt,38.8
+Hillerød,2011,I alt,39.7
+Hillerød,2015,I alt,40.8
+Hillerød,2019,I alt,41.5
+Hillerød,2022,I alt,41.8
+Hillerød,2007,Mænd,37.6
+Hillerød,2011,Mænd,38.6
+Hillerød,2015,Mænd,39.7
+Hillerød,2019,Mænd,40.5
+Hillerød,2022,Mænd,40.7
+Hillerød,2007,Kvinder,40.0
+Hillerød,2011,Kvinder,40.7
+Hillerød,2015,Kvinder,41.8
+Hillerød,2019,Kvinder,42.5
+Hillerød,2022,Kvinder,42.8
+Hørsholm,2007,I alt,43.4
+Hørsholm,2011,I alt,44.3
+Hørsholm,2015,I alt,45.4
+Hørsholm,2019,I alt,46.1
+Hørsholm,2022,I alt,47.0
+Hørsholm,2007,Mænd,41.6
+Hørsholm,2011,Mænd,42.6
+Hørsholm,2015,Mænd,43.8
+Hørsholm,2019,Mænd,44.3
+Hørsholm,2022,Mænd,45.2
+Hørsholm,2007,Kvinder,45.0
+Hørsholm,2011,Kvinder,45.8
+Hørsholm,2015,Kvinder,46.8
+Hørsholm,2019,Kvinder,47.7
+Hørsholm,2022,Kvinder,48.5
+Rudersdal,2007,I alt,41.9
+Rudersdal,2011,I alt,42.3
+Rudersdal,2015,I alt,43.0
+Rudersdal,2019,I alt,43.4
+Rudersdal,2022,I alt,43.7
+Rudersdal,2007,Mænd,40.3
+Rudersdal,2011,Mænd,40.7
+Rudersdal,2015,Mænd,41.4
+Rudersdal,2019,Mænd,41.9
+Rudersdal,2022,Mænd,42.1
+Rudersdal,2007,Kvinder,43.4
+Rudersdal,2011,Kvinder,43.8
+Rudersdal,2015,Kvinder,44.5
+Rudersdal,2019,Kvinder,44.9
+Rudersdal,2022,Kvinder,45.3
+Bornholm,2007,I alt,44.1
+Bornholm,2011,I alt,45.4
+Bornholm,2015,I alt,47.2
+Bornholm,2019,I alt,48.1
+Bornholm,2022,I alt,48.6
+Bornholm,2007,Mænd,43.0
+Bornholm,2011,Mænd,44.4
+Bornholm,2015,Mænd,46.3
+Bornholm,2019,Mænd,47.1
+Bornholm,2022,Mænd,47.6
+Bornholm,2007,Kvinder,45.1
+Bornholm,2011,Kvinder,46.4
+Bornholm,2015,Kvinder,48.2
+Bornholm,2019,Kvinder,49.0
+Bornholm,2022,Kvinder,49.5
+Christiansø,2007,I alt,45.5
+Christiansø,2011,I alt,42.1
+Christiansø,2015,I alt,44.1
+Christiansø,2019,I alt,43.6
+Christiansø,2022,I alt,44.3
+Christiansø,2007,Mænd,42.2
+Christiansø,2011,Mænd,40.1
+Christiansø,2015,Mænd,42.6
+Christiansø,2019,Mænd,42.5
+Christiansø,2022,Mænd,43.7
+Christiansø,2007,Kvinder,49.0
+Christiansø,2011,Kvinder,44.3
+Christiansø,2015,Kvinder,45.7
+Christiansø,2019,Kvinder,44.9
+Christiansø,2022,Kvinder,45.0
+Region Sjælland,2007,I alt,40.9
+Region Sjælland,2011,I alt,41.8
+Region Sjælland,2015,I alt,43.0
+Region Sjælland,2019,I alt,43.8
+Region Sjælland,2022,I alt,44.4
+Region Sjælland,2007,Mænd,39.9
+Region Sjælland,2011,Mænd,40.8
+Region Sjælland,2015,Mænd,42.0
+Region Sjælland,2019,Mænd,42.8
+Region Sjælland,2022,Mænd,43.4
+Region Sjælland,2007,Kvinder,41.9
+Region Sjælland,2011,Kvinder,42.8
+Region Sjælland,2015,Kvinder,44.0
+Region Sjælland,2019,Kvinder,44.7
+Region Sjælland,2022,Kvinder,45.4
+Greve,2007,I alt,39.4
+Greve,2011,I alt,40.7
+Greve,2015,I alt,41.9
+Greve,2019,I alt,42.5
+Greve,2022,I alt,42.9
+Greve,2007,Mænd,38.6
+Greve,2011,Mænd,39.8
+Greve,2015,Mænd,41.0
+Greve,2019,Mænd,41.5
+Greve,2022,Mænd,41.8
+Greve,2007,Kvinder,40.2
+Greve,2011,Kvinder,41.5
+Greve,2015,Kvinder,42.8
+Greve,2019,Kvinder,43.5
+Greve,2022,Kvinder,44.0
+Køge,2007,I alt,39.1
+Køge,2011,I alt,39.9
+Køge,2015,I alt,41.1
+Køge,2019,I alt,42.1
+Køge,2022,I alt,42.7
+Køge,2007,Mænd,38.0
+Køge,2011,Mænd,38.9
+Køge,2015,Mænd,40.2
+Køge,2019,Mænd,41.0
+Køge,2022,Mænd,41.6
+Køge,2007,Kvinder,40.1
+Køge,2011,Kvinder,40.9
+Køge,2015,Kvinder,42.0
+Køge,2019,Kvinder,43.1
+Køge,2022,Kvinder,43.8
+Lejre,2007,I alt,40.0
+Lejre,2011,I alt,41.1
+Lejre,2015,I alt,42.6
+Lejre,2019,I alt,43.4
+Lejre,2022,I alt,43.5
+Lejre,2007,Mænd,39.4
+Lejre,2011,Mænd,40.5
+Lejre,2015,Mænd,42.0
+Lejre,2019,Mænd,43.0
+Lejre,2022,Mænd,43.0
+Lejre,2007,Kvinder,40.5
+Lejre,2011,Kvinder,41.6
+Lejre,2015,Kvinder,43.2
+Lejre,2019,Kvinder,43.8
+Lejre,2022,Kvinder,44.1
+Roskilde,2007,I alt,39.5
+Roskilde,2011,I alt,40.3
+Roskilde,2015,I alt,41.1
+Roskilde,2019,I alt,41.7
+Roskilde,2022,I alt,42.2
+Roskilde,2007,Mænd,38.4
+Roskilde,2011,Mænd,39.1
+Roskilde,2015,Mænd,39.9
+Roskilde,2019,Mænd,40.6
+Roskilde,2022,Mænd,41.1
+Roskilde,2007,Kvinder,40.6
+Roskilde,2011,Kvinder,41.4
+Roskilde,2015,Kvinder,42.2
+Roskilde,2019,Kvinder,42.9
+Roskilde,2022,Kvinder,43.3
+Solrød,2007,I alt,38.7
+Solrød,2011,I alt,40.1
+Solrød,2015,I alt,41.1
+Solrød,2019,I alt,41.3
+Solrød,2022,I alt,41.5
+Solrød,2007,Mænd,38.0
+Solrød,2011,Mænd,39.3
+Solrød,2015,Mænd,40.4
+Solrød,2019,Mænd,40.5
+Solrød,2022,Mænd,40.6
+Solrød,2007,Kvinder,39.4
+Solrød,2011,Kvinder,40.9
+Solrød,2015,Kvinder,41.9
+Solrød,2019,Kvinder,42.1
+Solrød,2022,Kvinder,42.5
+Faxe,2007,I alt,40.5
+Faxe,2011,I alt,41.7
+Faxe,2015,I alt,43.2
+Faxe,2019,I alt,44.0
+Faxe,2022,I alt,44.7
+Faxe,2007,Mænd,39.6
+Faxe,2011,Mænd,40.7
+Faxe,2015,Mænd,42.1
+Faxe,2019,Mænd,43.0
+Faxe,2022,Mænd,43.7
+Faxe,2007,Kvinder,41.4
+Faxe,2011,Kvinder,42.7
+Faxe,2015,Kvinder,44.2
+Faxe,2019,Kvinder,45.0
+Faxe,2022,Kvinder,45.8
+Guldborgsund,2007,I alt,43.6
+Guldborgsund,2011,I alt,44.3
+Guldborgsund,2015,I alt,45.7
+Guldborgsund,2019,I alt,46.2
+Guldborgsund,2022,I alt,47.0
+Guldborgsund,2007,Mænd,42.5
+Guldborgsund,2011,Mænd,43.2
+Guldborgsund,2015,Mænd,44.7
+Guldborgsund,2019,Mænd,45.3
+Guldborgsund,2022,Mænd,46.1
+Guldborgsund,2007,Kvinder,44.7
+Guldborgsund,2011,Kvinder,45.4
+Guldborgsund,2015,Kvinder,46.7
+Guldborgsund,2019,Kvinder,47.2
+Guldborgsund,2022,Kvinder,47.9
+Holbæk,2007,I alt,39.6
+Holbæk,2011,I alt,40.5
+Holbæk,2015,I alt,42.0
+Holbæk,2019,I alt,42.8
+Holbæk,2022,I alt,43.4
+Holbæk,2007,Mænd,38.6
+Holbæk,2011,Mænd,39.5
+Holbæk,2015,Mænd,41.0
+Holbæk,2019,Mænd,41.8
+Holbæk,2022,Mænd,42.4
+Holbæk,2007,Kvinder,40.5
+Holbæk,2011,Kvinder,41.4
+Holbæk,2015,Kvinder,42.9
+Holbæk,2019,Kvinder,43.8
+Holbæk,2022,Kvinder,44.5
+Kalundborg,2007,I alt,41.2
+Kalundborg,2011,I alt,42.2
+Kalundborg,2015,I alt,43.7
+Kalundborg,2019,I alt,44.7
+Kalundborg,2022,I alt,45.6
+Kalundborg,2007,Mænd,40.2
+Kalundborg,2011,Mænd,41.4
+Kalundborg,2015,Mænd,42.9
+Kalundborg,2019,Mænd,43.9
+Kalundborg,2022,Mænd,44.8
+Kalundborg,2007,Kvinder,42.1
+Kalundborg,2011,Kvinder,43.1
+Kalundborg,2015,Kvinder,44.5
+Kalundborg,2019,Kvinder,45.6
+Kalundborg,2022,Kvinder,46.5
+Lolland,2007,I alt,44.6
+Lolland,2011,I alt,45.7
+Lolland,2015,I alt,47.2
+Lolland,2019,I alt,48.2
+Lolland,2022,I alt,49.0
+Lolland,2007,Mænd,43.5
+Lolland,2011,Mænd,44.7
+Lolland,2015,Mænd,46.1
+Lolland,2019,Mænd,47.3
+Lolland,2022,Mænd,48.2
+Lolland,2007,Kvinder,45.8
+Lolland,2011,Kvinder,46.7
+Lolland,2015,Kvinder,48.2
+Lolland,2019,Kvinder,49.1
+Lolland,2022,Kvinder,49.7
+Næstved,2007,I alt,40.5
+Næstved,2011,I alt,41.2
+Næstved,2015,I alt,42.2
+Næstved,2019,I alt,43.0
+Næstved,2022,I alt,43.7
+Næstved,2007,Mænd,39.5
+Næstved,2011,Mænd,40.2
+Næstved,2015,Mænd,41.2
+Næstved,2019,Mænd,42.0
+Næstved,2022,Mænd,42.7
+Næstved,2007,Kvinder,41.4
+Næstved,2011,Kvinder,42.1
+Næstved,2015,Kvinder,43.2
+Næstved,2019,Kvinder,44.0
+Næstved,2022,Kvinder,44.8
+Odsherred,2007,I alt,44.1
+Odsherred,2011,I alt,45.6
+Odsherred,2015,I alt,47.2
+Odsherred,2019,I alt,48.3
+Odsherred,2022,I alt,49.5
+Odsherred,2007,Mænd,43.2
+Odsherred,2011,Mænd,44.8
+Odsherred,2015,Mænd,46.4
+Odsherred,2019,Mænd,47.4
+Odsherred,2022,Mænd,48.7
+Odsherred,2007,Kvinder,44.9
+Odsherred,2011,Kvinder,46.4
+Odsherred,2015,Kvinder,48.1
+Odsherred,2019,Kvinder,49.3
+Odsherred,2022,Kvinder,50.3
+Ringsted,2007,I alt,39.1
+Ringsted,2011,I alt,39.6
+Ringsted,2015,I alt,40.8
+Ringsted,2019,I alt,41.4
+Ringsted,2022,I alt,42.1
+Ringsted,2007,Mænd,38.2
+Ringsted,2011,Mænd,38.8
+Ringsted,2015,Mænd,39.9
+Ringsted,2019,Mænd,40.6
+Ringsted,2022,Mænd,41.2
+Ringsted,2007,Kvinder,40.0
+Ringsted,2011,Kvinder,40.5
+Ringsted,2015,Kvinder,41.6
+Ringsted,2019,Kvinder,42.2
+Ringsted,2022,Kvinder,43.1
+Slagelse,2007,I alt,40.6
+Slagelse,2011,I alt,41.3
+Slagelse,2015,I alt,42.4
+Slagelse,2019,I alt,43.0
+Slagelse,2022,I alt,43.6
+Slagelse,2007,Mænd,39.4
+Slagelse,2011,Mænd,40.2
+Slagelse,2015,Mænd,41.3
+Slagelse,2019,Mænd,41.9
+Slagelse,2022,Mænd,42.6
+Slagelse,2007,Kvinder,41.7
+Slagelse,2011,Kvinder,42.5
+Slagelse,2015,Kvinder,43.5
+Slagelse,2019,Kvinder,44.1
+Slagelse,2022,Kvinder,44.7
+Sorø,2007,I alt,40.4
+Sorø,2011,I alt,41.2
+Sorø,2015,I alt,42.5
+Sorø,2019,I alt,43.4
+Sorø,2022,I alt,44.1
+Sorø,2007,Mænd,39.4
+Sorø,2011,Mænd,40.1
+Sorø,2015,Mænd,41.4
+Sorø,2019,Mænd,42.2
+Sorø,2022,Mænd,43.1
+Sorø,2007,Kvinder,41.4
+Sorø,2011,Kvinder,42.2
+Sorø,2015,Kvinder,43.6
+Sorø,2019,Kvinder,44.5
+Sorø,2022,Kvinder,45.1
+Stevns,2007,I alt,42.0
+Stevns,2011,I alt,43.2
+Stevns,2015,I alt,44.6
+Stevns,2019,I alt,45.5
+Stevns,2022,I alt,46.0
+Stevns,2007,Mænd,41.1
+Stevns,2011,Mænd,42.3
+Stevns,2015,Mænd,43.6
+Stevns,2019,Mænd,44.7
+Stevns,2022,Mænd,45.3
+Stevns,2007,Kvinder,42.9
+Stevns,2011,Kvinder,44.1
+Stevns,2015,Kvinder,45.6
+Stevns,2019,Kvinder,46.3
+Stevns,2022,Kvinder,46.7
+Vordingborg,2007,I alt,43.1
+Vordingborg,2011,I alt,44.0
+Vordingborg,2015,I alt,45.3
+Vordingborg,2019,I alt,46.5
+Vordingborg,2022,I alt,47.5
+Vordingborg,2007,Mænd,42.0
+Vordingborg,2011,Mænd,43.0
+Vordingborg,2015,Mænd,44.4
+Vordingborg,2019,Mænd,45.5
+Vordingborg,2022,Mænd,46.5
+Vordingborg,2007,Kvinder,44.1
+Vordingborg,2011,Kvinder,45.0
+Vordingborg,2015,Kvinder,46.3
+Vordingborg,2019,Kvinder,47.4
+Vordingborg,2022,Kvinder,48.5
+Region Syddanmark,2007,I alt,40.3
+Region Syddanmark,2011,I alt,41.0
+Region Syddanmark,2015,I alt,42.0
+Region Syddanmark,2019,I alt,42.7
+Region Syddanmark,2022,I alt,43.3
+Region Syddanmark,2007,Mænd,39.3
+Region Syddanmark,2011,Mænd,40.1
+Region Syddanmark,2015,Mænd,41.1
+Region Syddanmark,2019,Mænd,41.8
+Region Syddanmark,2022,Mænd,42.4
+Region Syddanmark,2007,Kvinder,41.3
+Region Syddanmark,2011,Kvinder,42.0
+Region Syddanmark,2015,Kvinder,42.9
+Region Syddanmark,2019,Kvinder,43.6
+Region Syddanmark,2022,Kvinder,44.2
+Assens,2007,I alt,40.8
+Assens,2011,I alt,41.8
+Assens,2015,I alt,43.3
+Assens,2019,I alt,44.1
+Assens,2022,I alt,45.0
+Assens,2007,Mænd,40.0
+Assens,2011,Mænd,41.0
+Assens,2015,Mænd,42.6
+Assens,2019,Mænd,43.3
+Assens,2022,Mænd,44.2
+Assens,2007,Kvinder,41.6
+Assens,2011,Kvinder,42.6
+Assens,2015,Kvinder,44.1
+Assens,2019,Kvinder,45.0
+Assens,2022,Kvinder,45.8
+Faaborg-Midtfyn,2007,I alt,41.9
+Faaborg-Midtfyn,2011,I alt,42.6
+Faaborg-Midtfyn,2015,I alt,43.9
+Faaborg-Midtfyn,2019,I alt,44.6
+Faaborg-Midtfyn,2022,I alt,45.2
+Faaborg-Midtfyn,2007,Mænd,40.9
+Faaborg-Midtfyn,2011,Mænd,41.5
+Faaborg-Midtfyn,2015,Mænd,42.9
+Faaborg-Midtfyn,2019,Mænd,43.6
+Faaborg-Midtfyn,2022,Mænd,44.3
+Faaborg-Midtfyn,2007,Kvinder,43.0
+Faaborg-Midtfyn,2011,Kvinder,43.7
+Faaborg-Midtfyn,2015,Kvinder,45.0
+Faaborg-Midtfyn,2019,Kvinder,45.6
+Faaborg-Midtfyn,2022,Kvinder,46.2
+Kerteminde,2007,I alt,41.5
+Kerteminde,2011,I alt,42.6
+Kerteminde,2015,I alt,44.1
+Kerteminde,2019,I alt,45.3
+Kerteminde,2022,I alt,46.1
+Kerteminde,2007,Mænd,40.9
+Kerteminde,2011,Mænd,41.9
+Kerteminde,2015,Mænd,43.2
+Kerteminde,2019,Mænd,44.3
+Kerteminde,2022,Mænd,45.1
+Kerteminde,2007,Kvinder,42.0
+Kerteminde,2011,Kvinder,43.3
+Kerteminde,2015,Kvinder,45.0
+Kerteminde,2019,Kvinder,46.2
+Kerteminde,2022,Kvinder,47.0
+Langeland,2007,I alt,46.8
+Langeland,2011,I alt,48.4
+Langeland,2015,I alt,50.1
+Langeland,2019,I alt,50.9
+Langeland,2022,I alt,52.2
+Langeland,2007,Mænd,45.4
+Langeland,2011,Mænd,47.2
+Langeland,2015,Mænd,48.9
+Langeland,2019,Mænd,49.7
+Langeland,2022,Mænd,51.0
+Langeland,2007,Kvinder,48.3
+Langeland,2011,Kvinder,49.6
+Langeland,2015,Kvinder,51.3
+Langeland,2019,Kvinder,52.1
+Langeland,2022,Kvinder,53.4
+Middelfart,2007,I alt,41.0
+Middelfart,2011,I alt,41.8
+Middelfart,2015,I alt,43.2
+Middelfart,2019,I alt,44.1
+Middelfart,2022,I alt,44.7
+Middelfart,2007,Mænd,40.1
+Middelfart,2011,Mænd,40.9
+Middelfart,2015,Mænd,42.2
+Middelfart,2019,Mænd,43.2
+Middelfart,2022,Mænd,43.8
+Middelfart,2007,Kvinder,42.0
+Middelfart,2011,Kvinder,42.8
+Middelfart,2015,Kvinder,44.1
+Middelfart,2019,Kvinder,44.9
+Middelfart,2022,Kvinder,45.5
+Nordfyns,2007,I alt,41.0
+Nordfyns,2011,I alt,41.8
+Nordfyns,2015,I alt,43.3
+Nordfyns,2019,I alt,44.2
+Nordfyns,2022,I alt,45.2
+Nordfyns,2007,Mænd,40.1
+Nordfyns,2011,Mænd,41.0
+Nordfyns,2015,Mænd,42.4
+Nordfyns,2019,Mænd,43.4
+Nordfyns,2022,Mænd,44.5
+Nordfyns,2007,Kvinder,41.9
+Nordfyns,2011,Kvinder,42.7
+Nordfyns,2015,Kvinder,44.1
+Nordfyns,2019,Kvinder,45.1
+Nordfyns,2022,Kvinder,46.0
+Nyborg,2007,I alt,41.9
+Nyborg,2011,I alt,42.7
+Nyborg,2015,I alt,43.8
+Nyborg,2019,I alt,44.7
+Nyborg,2022,I alt,45.5
+Nyborg,2007,Mænd,41.0
+Nyborg,2011,Mænd,41.8
+Nyborg,2015,Mænd,43.0
+Nyborg,2019,Mænd,43.7
+Nyborg,2022,Mænd,44.6
+Nyborg,2007,Kvinder,42.8
+Nyborg,2011,Kvinder,43.6
+Nyborg,2015,Kvinder,44.6
+Nyborg,2019,Kvinder,45.6
+Nyborg,2022,Kvinder,46.3
+Odense,2007,I alt,38.9
+Odense,2011,I alt,39.2
+Odense,2015,I alt,39.3
+Odense,2019,I alt,39.6
+Odense,2022,I alt,39.9
+Odense,2007,Mænd,37.6
+Odense,2011,Mænd,38.0
+Odense,2015,Mænd,38.2
+Odense,2019,Mænd,38.5
+Odense,2022,Mænd,38.9
+Odense,2007,Kvinder,40.1
+Odense,2011,Kvinder,40.3
+Odense,2015,Kvinder,40.3
+Odense,2019,Kvinder,40.6
+Odense,2022,Kvinder,40.9
+Svendborg,2007,I alt,41.3
+Svendborg,2011,I alt,42.2
+Svendborg,2015,I alt,43.4
+Svendborg,2019,I alt,44.1
+Svendborg,2022,I alt,44.6
+Svendborg,2007,Mænd,40.0
+Svendborg,2011,Mænd,41.0
+Svendborg,2015,Mænd,42.3
+Svendborg,2019,Mænd,43.0
+Svendborg,2022,Mænd,43.5
+Svendborg,2007,Kvinder,42.5
+Svendborg,2011,Kvinder,43.3
+Svendborg,2015,Kvinder,44.5
+Svendborg,2019,Kvinder,45.3
+Svendborg,2022,Kvinder,45.7
+Ærø,2007,I alt,48.4
+Ærø,2011,I alt,49.2
+Ærø,2015,I alt,50.9
+Ærø,2019,I alt,52.2
+Ærø,2022,I alt,52.7
+Ærø,2007,Mænd,46.6
+Ærø,2011,Mænd,47.3
+Ærø,2015,Mænd,49.1
+Ærø,2019,Mænd,50.6
+Ærø,2022,Mænd,51.4
+Ærø,2007,Kvinder,50.3
+Ærø,2011,Kvinder,51.2
+Ærø,2015,Kvinder,52.7
+Ærø,2019,Kvinder,53.8
+Ærø,2022,Kvinder,54.0
+Billund,2007,I alt,39.8
+Billund,2011,I alt,40.8
+Billund,2015,I alt,41.9
+Billund,2019,I alt,42.5
+Billund,2022,I alt,43.3
+Billund,2007,Mænd,38.8
+Billund,2011,Mænd,40.0
+Billund,2015,Mænd,41.1
+Billund,2019,Mænd,41.8
+Billund,2022,Mænd,42.4
+Billund,2007,Kvinder,40.8
+Billund,2011,Kvinder,41.6
+Billund,2015,Kvinder,42.6
+Billund,2019,Kvinder,43.3
+Billund,2022,Kvinder,44.1
+Esbjerg,2007,I alt,39.6
+Esbjerg,2011,I alt,40.4
+Esbjerg,2015,I alt,41.3
+Esbjerg,2019,I alt,42.2
+Esbjerg,2022,I alt,42.8
+Esbjerg,2007,Mænd,38.8
+Esbjerg,2011,Mænd,39.6
+Esbjerg,2015,Mænd,40.5
+Esbjerg,2019,Mænd,41.4
+Esbjerg,2022,Mænd,42.0
+Esbjerg,2007,Kvinder,40.5
+Esbjerg,2011,Kvinder,41.3
+Esbjerg,2015,Kvinder,42.1
+Esbjerg,2019,Kvinder,43.1
+Esbjerg,2022,Kvinder,43.7
+Fanø,2007,I alt,45.2
+Fanø,2011,I alt,46.7
+Fanø,2015,I alt,48.7
+Fanø,2019,I alt,49.6
+Fanø,2022,I alt,50.9
+Fanø,2007,Mænd,44.1
+Fanø,2011,Mænd,45.5
+Fanø,2015,Mænd,47.8
+Fanø,2019,Mænd,48.6
+Fanø,2022,Mænd,50.0
+Fanø,2007,Kvinder,46.2
+Fanø,2011,Kvinder,47.9
+Fanø,2015,Kvinder,49.6
+Fanø,2019,Kvinder,50.6
+Fanø,2022,Kvinder,51.7
+Fredericia,2007,I alt,40.3
+Fredericia,2011,I alt,40.8
+Fredericia,2015,I alt,41.7
+Fredericia,2019,I alt,42.6
+Fredericia,2022,I alt,43.4
+Fredericia,2007,Mænd,39.2
+Fredericia,2011,Mænd,39.8
+Fredericia,2015,Mænd,40.8
+Fredericia,2019,Mænd,41.7
+Fredericia,2022,Mænd,42.5
+Fredericia,2007,Kvinder,41.5
+Fredericia,2011,Kvinder,41.8
+Fredericia,2015,Kvinder,42.6
+Fredericia,2019,Kvinder,43.4
+Fredericia,2022,Kvinder,44.3
+Haderslev,2007,I alt,40.8
+Haderslev,2011,I alt,41.6
+Haderslev,2015,I alt,42.7
+Haderslev,2019,I alt,43.8
+Haderslev,2022,I alt,44.6
+Haderslev,2007,Mænd,39.8
+Haderslev,2011,Mænd,40.7
+Haderslev,2015,Mænd,41.9
+Haderslev,2019,Mænd,42.9
+Haderslev,2022,Mænd,43.7
+Haderslev,2007,Kvinder,41.7
+Haderslev,2011,Kvinder,42.4
+Haderslev,2015,Kvinder,43.5
+Haderslev,2019,Kvinder,44.7
+Haderslev,2022,Kvinder,45.6
+Kolding,2007,I alt,39.0
+Kolding,2011,I alt,39.7
+Kolding,2015,I alt,40.4
+Kolding,2019,I alt,41.2
+Kolding,2022,I alt,41.8
+Kolding,2007,Mænd,38.0
+Kolding,2011,Mænd,38.8
+Kolding,2015,Mænd,39.6
+Kolding,2019,Mænd,40.4
+Kolding,2022,Mænd,40.9
+Kolding,2007,Kvinder,40.0
+Kolding,2011,Kvinder,40.5
+Kolding,2015,Kvinder,41.2
+Kolding,2019,Kvinder,41.9
+Kolding,2022,Kvinder,42.6
+Sønderborg,2007,I alt,41.1
+Sønderborg,2011,I alt,42.2
+Sønderborg,2015,I alt,43.4
+Sønderborg,2019,I alt,44.5
+Sønderborg,2022,I alt,45.4
+Sønderborg,2007,Mænd,40.0
+Sønderborg,2011,Mænd,41.2
+Sønderborg,2015,Mænd,42.3
+Sønderborg,2019,Mænd,43.3
+Sønderborg,2022,Mænd,44.2
+Sønderborg,2007,Kvinder,42.2
+Sønderborg,2011,Kvinder,43.2
+Sønderborg,2015,Kvinder,44.6
+Sønderborg,2019,Kvinder,45.7
+Sønderborg,2022,Kvinder,46.7
+Tønder,2007,I alt,41.5
+Tønder,2011,I alt,42.6
+Tønder,2015,I alt,44.1
+Tønder,2019,I alt,45.0
+Tønder,2022,I alt,45.9
+Tønder,2007,Mænd,40.3
+Tønder,2011,Mænd,41.5
+Tønder,2015,Mænd,43.2
+Tønder,2019,Mænd,44.1
+Tønder,2022,Mænd,45.0
+Tønder,2007,Kvinder,42.7
+Tønder,2011,Kvinder,43.7
+Tønder,2015,Kvinder,45.1
+Tønder,2019,Kvinder,45.9
+Tønder,2022,Kvinder,46.8
+Varde,2007,I alt,40.2
+Varde,2011,I alt,41.1
+Varde,2015,I alt,42.4
+Varde,2019,I alt,43.4
+Varde,2022,I alt,44.3
+Varde,2007,Mænd,39.3
+Varde,2011,Mænd,40.4
+Varde,2015,Mænd,41.6
+Varde,2019,Mænd,42.6
+Varde,2022,Mænd,43.6
+Varde,2007,Kvinder,41.0
+Varde,2011,Kvinder,41.7
+Varde,2015,Kvinder,43.2
+Varde,2019,Kvinder,44.2
+Varde,2022,Kvinder,45.0
+Vejen,2007,I alt,39.8
+Vejen,2011,I alt,40.4
+Vejen,2015,I alt,41.7
+Vejen,2019,I alt,42.5
+Vejen,2022,I alt,43.2
+Vejen,2007,Mænd,38.9
+Vejen,2011,Mænd,39.7
+Vejen,2015,Mænd,41.0
+Vejen,2019,Mænd,41.7
+Vejen,2022,Mænd,42.4
+Vejen,2007,Kvinder,40.7
+Vejen,2011,Kvinder,41.2
+Vejen,2015,Kvinder,42.4
+Vejen,2019,Kvinder,43.2
+Vejen,2022,Kvinder,43.9
+Vejle,2007,I alt,39.4
+Vejle,2011,I alt,39.9
+Vejle,2015,I alt,40.7
+Vejle,2019,I alt,41.3
+Vejle,2022,I alt,41.5
+Vejle,2007,Mænd,38.5
+Vejle,2011,Mænd,39.0
+Vejle,2015,Mænd,39.9
+Vejle,2019,Mænd,40.5
+Vejle,2022,Mænd,40.7
+Vejle,2007,Kvinder,40.2
+Vejle,2011,Kvinder,40.7
+Vejle,2015,Kvinder,41.6
+Vejle,2019,Kvinder,42.1
+Vejle,2022,Kvinder,42.4
+Aabenraa,2007,I alt,40.8
+Aabenraa,2011,I alt,41.8
+Aabenraa,2015,I alt,43.1
+Aabenraa,2019,I alt,44.0
+Aabenraa,2022,I alt,44.9
+Aabenraa,2007,Mænd,39.9
+Aabenraa,2011,Mænd,41.0
+Aabenraa,2015,Mænd,42.4
+Aabenraa,2019,Mænd,43.3
+Aabenraa,2022,Mænd,44.2
+Aabenraa,2007,Kvinder,41.7
+Aabenraa,2011,Kvinder,42.7
+Aabenraa,2015,Kvinder,43.9
+Aabenraa,2019,Kvinder,44.8
+Aabenraa,2022,Kvinder,45.6
+Region Midtjylland,2007,I alt,39.1
+Region Midtjylland,2011,I alt,39.6
+Region Midtjylland,2015,I alt,40.5
+Region Midtjylland,2019,I alt,41.1
+Region Midtjylland,2022,I alt,41.5
+Region Midtjylland,2007,Mænd,38.1
+Region Midtjylland,2011,Mænd,38.8
+Region Midtjylland,2015,Mænd,39.7
+Region Midtjylland,2019,Mænd,40.3
+Region Midtjylland,2022,Mænd,40.8
+Region Midtjylland,2007,Kvinder,40.0
+Region Midtjylland,2011,Kvinder,40.5
+Region Midtjylland,2015,Kvinder,41.3
+Region Midtjylland,2019,Kvinder,41.8
+Region Midtjylland,2022,Kvinder,42.3
+Favrskov,2007,I alt,38.2
+Favrskov,2011,I alt,38.9
+Favrskov,2015,I alt,40.1
+Favrskov,2019,I alt,40.9
+Favrskov,2022,I alt,41.4
+Favrskov,2007,Mænd,37.5
+Favrskov,2011,Mænd,38.2
+Favrskov,2015,Mænd,39.5
+Favrskov,2019,Mænd,40.3
+Favrskov,2022,Mænd,40.7
+Favrskov,2007,Kvinder,39.0
+Favrskov,2011,Kvinder,39.6
+Favrskov,2015,Kvinder,40.7
+Favrskov,2019,Kvinder,41.6
+Favrskov,2022,Kvinder,42.0
+Hedensted,2007,I alt,39.3
+Hedensted,2011,I alt,40.1
+Hedensted,2015,I alt,41.4
+Hedensted,2019,I alt,42.4
+Hedensted,2022,I alt,43.1
+Hedensted,2007,Mænd,38.4
+Hedensted,2011,Mænd,39.2
+Hedensted,2015,Mænd,40.5
+Hedensted,2019,Mænd,41.5
+Hedensted,2022,Mænd,42.2
+Hedensted,2007,Kvinder,40.2
+Hedensted,2011,Kvinder,41.0
+Hedensted,2015,Kvinder,42.3
+Hedensted,2019,Kvinder,43.4
+Hedensted,2022,Kvinder,44.1
+Horsens,2007,I alt,39.2
+Horsens,2011,I alt,39.4
+Horsens,2015,I alt,40.0
+Horsens,2019,I alt,40.5
+Horsens,2022,I alt,40.9
+Horsens,2007,Mænd,38.2
+Horsens,2011,Mænd,38.6
+Horsens,2015,Mænd,39.1
+Horsens,2019,Mænd,39.6
+Horsens,2022,Mænd,40.0
+Horsens,2007,Kvinder,40.1
+Horsens,2011,Kvinder,40.3
+Horsens,2015,Kvinder,40.9
+Horsens,2019,Kvinder,41.4
+Horsens,2022,Kvinder,41.7
+Norddjurs,2007,I alt,42.0
+Norddjurs,2011,I alt,43.0
+Norddjurs,2015,I alt,44.0
+Norddjurs,2019,I alt,45.1
+Norddjurs,2022,I alt,46.1
+Norddjurs,2007,Mænd,41.0
+Norddjurs,2011,Mænd,41.9
+Norddjurs,2015,Mænd,42.8
+Norddjurs,2019,Mænd,43.8
+Norddjurs,2022,Mænd,45.0
+Norddjurs,2007,Kvinder,43.0
+Norddjurs,2011,Kvinder,44.0
+Norddjurs,2015,Kvinder,45.3
+Norddjurs,2019,Kvinder,46.4
+Norddjurs,2022,Kvinder,47.2
+Odder,2007,I alt,40.4
+Odder,2011,I alt,41.4
+Odder,2015,I alt,42.9
+Odder,2019,I alt,43.8
+Odder,2022,I alt,44.5
+Odder,2007,Mænd,39.5
+Odder,2011,Mænd,40.2
+Odder,2015,Mænd,41.8
+Odder,2019,Mænd,42.8
+Odder,2022,Mænd,43.7
+Odder,2007,Kvinder,41.2
+Odder,2011,Kvinder,42.5
+Odder,2015,Kvinder,44.0
+Odder,2019,Kvinder,44.7
+Odder,2022,Kvinder,45.3
+Randers,2007,I alt,40.4
+Randers,2011,I alt,40.7
+Randers,2015,I alt,41.4
+Randers,2019,I alt,42.1
+Randers,2022,I alt,42.7
+Randers,2007,Mænd,39.4
+Randers,2011,Mænd,39.8
+Randers,2015,Mænd,40.6
+Randers,2019,Mænd,41.4
+Randers,2022,Mænd,41.9
+Randers,2007,Kvinder,41.4
+Randers,2011,Kvinder,41.6
+Randers,2015,Kvinder,42.2
+Randers,2019,Kvinder,42.9
+Randers,2022,Kvinder,43.5
+Samsø,2007,I alt,46.8
+Samsø,2011,I alt,48.6
+Samsø,2015,I alt,50.2
+Samsø,2019,I alt,51.6
+Samsø,2022,I alt,52.4
+Samsø,2007,Mænd,45.5
+Samsø,2011,Mænd,47.4
+Samsø,2015,Mænd,48.6
+Samsø,2019,Mænd,50.1
+Samsø,2022,Mænd,50.9
+Samsø,2007,Kvinder,48.0
+Samsø,2011,Kvinder,49.8
+Samsø,2015,Kvinder,51.8
+Samsø,2019,Kvinder,53.2
+Samsø,2022,Kvinder,53.9
+Silkeborg,2007,I alt,39.0
+Silkeborg,2011,I alt,39.7
+Silkeborg,2015,I alt,40.8
+Silkeborg,2019,I alt,41.6
+Silkeborg,2022,I alt,41.8
+Silkeborg,2007,Mænd,38.1
+Silkeborg,2011,Mænd,38.8
+Silkeborg,2015,Mænd,40.1
+Silkeborg,2019,Mænd,40.9
+Silkeborg,2022,Mænd,41.0
+Silkeborg,2007,Kvinder,39.9
+Silkeborg,2011,Kvinder,40.5
+Silkeborg,2015,Kvinder,41.5
+Silkeborg,2019,Kvinder,42.3
+Silkeborg,2022,Kvinder,42.5
+Skanderborg,2007,I alt,38.0
+Skanderborg,2011,I alt,38.8
+Skanderborg,2015,I alt,40.0
+Skanderborg,2019,I alt,40.4
+Skanderborg,2022,I alt,40.6
+Skanderborg,2007,Mænd,37.4
+Skanderborg,2011,Mænd,38.1
+Skanderborg,2015,Mænd,39.4
+Skanderborg,2019,Mænd,39.8
+Skanderborg,2022,Mænd,39.9
+Skanderborg,2007,Kvinder,38.6
+Skanderborg,2011,Kvinder,39.5
+Skanderborg,2015,Kvinder,40.7
+Skanderborg,2019,Kvinder,41.1
+Skanderborg,2022,Kvinder,41.3
+Syddjurs,2007,I alt,41.5
+Syddjurs,2011,I alt,42.5
+Syddjurs,2015,I alt,44.1
+Syddjurs,2019,I alt,45.0
+Syddjurs,2022,I alt,45.6
+Syddjurs,2007,Mænd,40.7
+Syddjurs,2011,Mænd,41.8
+Syddjurs,2015,Mænd,43.4
+Syddjurs,2019,Mænd,44.5
+Syddjurs,2022,Mænd,45.0
+Syddjurs,2007,Kvinder,42.3
+Syddjurs,2011,Kvinder,43.3
+Syddjurs,2015,Kvinder,44.7
+Syddjurs,2019,Kvinder,45.6
+Syddjurs,2022,Kvinder,46.2
+Aarhus,2007,I alt,37.3
+Aarhus,2011,I alt,37.4
+Aarhus,2015,I alt,37.6
+Aarhus,2019,I alt,37.7
+Aarhus,2022,I alt,38.0
+Aarhus,2007,Mænd,36.2
+Aarhus,2011,Mænd,36.5
+Aarhus,2015,Mænd,36.7
+Aarhus,2019,Mænd,36.9
+Aarhus,2022,Mænd,37.2
+Aarhus,2007,Kvinder,38.3
+Aarhus,2011,Kvinder,38.3
+Aarhus,2015,Kvinder,38.5
+Aarhus,2019,Kvinder,38.4
+Aarhus,2022,Kvinder,38.7
+Herning,2007,I alt,38.8
+Herning,2011,I alt,39.5
+Herning,2015,I alt,40.5
+Herning,2019,I alt,41.3
+Herning,2022,I alt,42.0
+Herning,2007,Mænd,37.9
+Herning,2011,Mænd,38.7
+Herning,2015,Mænd,39.7
+Herning,2019,Mænd,40.5
+Herning,2022,Mænd,41.2
+Herning,2007,Kvinder,39.8
+Herning,2011,Kvinder,40.3
+Herning,2015,Kvinder,41.3
+Herning,2019,Kvinder,42.1
+Herning,2022,Kvinder,42.8
+Holstebro,2007,I alt,39.3
+Holstebro,2011,I alt,40.0
+Holstebro,2015,I alt,41.0
+Holstebro,2019,I alt,41.7
+Holstebro,2022,I alt,42.3
+Holstebro,2007,Mænd,38.6
+Holstebro,2011,Mænd,39.2
+Holstebro,2015,Mænd,40.2
+Holstebro,2019,Mænd,41.0
+Holstebro,2022,Mænd,41.4
+Holstebro,2007,Kvinder,40.0
+Holstebro,2011,Kvinder,40.8
+Holstebro,2015,Kvinder,41.8
+Holstebro,2019,Kvinder,42.4
+Holstebro,2022,Kvinder,43.1
+Ikast-Brande,2007,I alt,39.3
+Ikast-Brande,2011,I alt,40.0
+Ikast-Brande,2015,I alt,41.0
+Ikast-Brande,2019,I alt,41.9
+Ikast-Brande,2022,I alt,42.5
+Ikast-Brande,2007,Mænd,38.3
+Ikast-Brande,2011,Mænd,39.1
+Ikast-Brande,2015,Mænd,40.3
+Ikast-Brande,2019,Mænd,41.1
+Ikast-Brande,2022,Mænd,41.7
+Ikast-Brande,2007,Kvinder,40.2
+Ikast-Brande,2011,Kvinder,40.9
+Ikast-Brande,2015,Kvinder,41.9
+Ikast-Brande,2019,Kvinder,42.8
+Ikast-Brande,2022,Kvinder,43.3
+Lemvig,2007,I alt,41.3
+Lemvig,2011,I alt,42.7
+Lemvig,2015,I alt,44.5
+Lemvig,2019,I alt,45.9
+Lemvig,2022,I alt,47.0
+Lemvig,2007,Mænd,40.3
+Lemvig,2011,Mænd,41.9
+Lemvig,2015,Mænd,43.8
+Lemvig,2019,Mænd,45.2
+Lemvig,2022,Mænd,46.4
+Lemvig,2007,Kvinder,42.3
+Lemvig,2011,Kvinder,43.5
+Lemvig,2015,Kvinder,45.3
+Lemvig,2019,Kvinder,46.6
+Lemvig,2022,Kvinder,47.6
+Ringkøbing-Skjern,2007,I alt,39.7
+Ringkøbing-Skjern,2011,I alt,40.8
+Ringkøbing-Skjern,2015,I alt,42.3
+Ringkøbing-Skjern,2019,I alt,43.1
+Ringkøbing-Skjern,2022,I alt,44.0
+Ringkøbing-Skjern,2007,Mænd,39.0
+Ringkøbing-Skjern,2011,Mænd,40.0
+Ringkøbing-Skjern,2015,Mænd,41.5
+Ringkøbing-Skjern,2019,Mænd,42.4
+Ringkøbing-Skjern,2022,Mænd,43.3
+Ringkøbing-Skjern,2007,Kvinder,40.5
+Ringkøbing-Skjern,2011,Kvinder,41.6
+Ringkøbing-Skjern,2015,Kvinder,43.1
+Ringkøbing-Skjern,2019,Kvinder,43.9
+Ringkøbing-Skjern,2022,Kvinder,44.9
+Skive,2007,I alt,40.5
+Skive,2011,I alt,41.5
+Skive,2015,I alt,43.0
+Skive,2019,I alt,44.2
+Skive,2022,I alt,45.4
+Skive,2007,Mænd,39.6
+Skive,2011,Mænd,40.7
+Skive,2015,Mænd,42.3
+Skive,2019,Mænd,43.4
+Skive,2022,Mænd,44.6
+Skive,2007,Kvinder,41.5
+Skive,2011,Kvinder,42.4
+Skive,2015,Kvinder,43.8
+Skive,2019,Kvinder,45.1
+Skive,2022,Kvinder,46.2
+Struer,2007,I alt,40.8
+Struer,2011,I alt,42.1
+Struer,2015,I alt,43.8
+Struer,2019,I alt,45.2
+Struer,2022,I alt,46.3
+Struer,2007,Mænd,39.9
+Struer,2011,Mænd,41.3
+Struer,2015,Mænd,42.9
+Struer,2019,Mænd,44.4
+Struer,2022,Mænd,45.6
+Struer,2007,Kvinder,41.6
+Struer,2011,Kvinder,42.8
+Struer,2015,Kvinder,44.7
+Struer,2019,Kvinder,46.0
+Struer,2022,Kvinder,47.1
+Viborg,2007,I alt,39.5
+Viborg,2011,I alt,40.1
+Viborg,2015,I alt,41.0
+Viborg,2019,I alt,41.8
+Viborg,2022,I alt,42.7
+Viborg,2007,Mænd,38.5
+Viborg,2011,Mænd,39.1
+Viborg,2015,Mænd,40.1
+Viborg,2019,Mænd,40.9
+Viborg,2022,Mænd,41.8
+Viborg,2007,Kvinder,40.4
+Viborg,2011,Kvinder,41.0
+Viborg,2015,Kvinder,41.9
+Viborg,2019,Kvinder,42.7
+Viborg,2022,Kvinder,43.6
+Region Nordjylland,2007,I alt,40.6
+Region Nordjylland,2011,I alt,41.3
+Region Nordjylland,2015,I alt,42.1
+Region Nordjylland,2019,I alt,42.7
+Region Nordjylland,2022,I alt,43.3
+Region Nordjylland,2007,Mænd,39.5
+Region Nordjylland,2011,Mænd,40.3
+Region Nordjylland,2015,Mænd,41.1
+Region Nordjylland,2019,Mænd,41.8
+Region Nordjylland,2022,Mænd,42.4
+Region Nordjylland,2007,Kvinder,41.7
+Region Nordjylland,2011,Kvinder,42.3
+Region Nordjylland,2015,Kvinder,43.0
+Region Nordjylland,2019,Kvinder,43.7
+Region Nordjylland,2022,Kvinder,44.2
+Brønderslev,2007,I alt,41.0
+Brønderslev,2011,I alt,41.5
+Brønderslev,2015,I alt,42.5
+Brønderslev,2019,I alt,43.1
+Brønderslev,2022,I alt,43.6
+Brønderslev,2007,Mænd,40.0
+Brønderslev,2011,Mænd,40.7
+Brønderslev,2015,Mænd,41.6
+Brønderslev,2019,Mænd,42.3
+Brønderslev,2022,Mænd,42.8
+Brønderslev,2007,Kvinder,41.9
+Brønderslev,2011,Kvinder,42.2
+Brønderslev,2015,Kvinder,43.4
+Brønderslev,2019,Kvinder,43.9
+Brønderslev,2022,Kvinder,44.5
+Frederikshavn,2007,I alt,42.5
+Frederikshavn,2011,I alt,43.8
+Frederikshavn,2015,I alt,45.2
+Frederikshavn,2019,I alt,46.3
+Frederikshavn,2022,I alt,47.2
+Frederikshavn,2007,Mænd,41.4
+Frederikshavn,2011,Mænd,42.7
+Frederikshavn,2015,Mænd,44.2
+Frederikshavn,2019,Mænd,45.2
+Frederikshavn,2022,Mænd,46.1
+Frederikshavn,2007,Kvinder,43.5
+Frederikshavn,2011,Kvinder,44.8
+Frederikshavn,2015,Kvinder,46.2
+Frederikshavn,2019,Kvinder,47.4
+Frederikshavn,2022,Kvinder,48.3
+Hjørring,2007,I alt,41.0
+Hjørring,2011,I alt,42.0
+Hjørring,2015,I alt,43.2
+Hjørring,2019,I alt,44.2
+Hjørring,2022,I alt,45.1
+Hjørring,2007,Mænd,40.0
+Hjørring,2011,Mænd,41.0
+Hjørring,2015,Mænd,42.2
+Hjørring,2019,Mænd,43.3
+Hjørring,2022,Mænd,44.2
+Hjørring,2007,Kvinder,41.9
+Hjørring,2011,Kvinder,43.0
+Hjørring,2015,Kvinder,44.1
+Hjørring,2019,Kvinder,45.2
+Hjørring,2022,Kvinder,46.1
+Jammerbugt,2007,I alt,41.0
+Jammerbugt,2011,I alt,42.1
+Jammerbugt,2015,I alt,43.4
+Jammerbugt,2019,I alt,44.2
+Jammerbugt,2022,I alt,45.0
+Jammerbugt,2007,Mænd,40.1
+Jammerbugt,2011,Mænd,41.1
+Jammerbugt,2015,Mænd,42.5
+Jammerbugt,2019,Mænd,43.4
+Jammerbugt,2022,Mænd,44.2
+Jammerbugt,2007,Kvinder,42.0
+Jammerbugt,2011,Kvinder,43.0
+Jammerbugt,2015,Kvinder,44.3
+Jammerbugt,2019,Kvinder,45.1
+Jammerbugt,2022,Kvinder,45.8
+Læsø,2007,I alt,48.3
+Læsø,2011,I alt,50.3
+Læsø,2015,I alt,52.3
+Læsø,2019,I alt,53.6
+Læsø,2022,I alt,54.8
+Læsø,2007,Mænd,47.5
+Læsø,2011,Mænd,49.4
+Læsø,2015,Mænd,51.6
+Læsø,2019,Mænd,53.6
+Læsø,2022,Mænd,54.9
+Læsø,2007,Kvinder,49.2
+Læsø,2011,Kvinder,51.2
+Læsø,2015,Kvinder,53.0
+Læsø,2019,Kvinder,53.6
+Læsø,2022,Kvinder,54.7
+Mariagerfjord,2007,I alt,40.7
+Mariagerfjord,2011,I alt,41.5
+Mariagerfjord,2015,I alt,42.8
+Mariagerfjord,2019,I alt,44.1
+Mariagerfjord,2022,I alt,45.1
+Mariagerfjord,2007,Mænd,39.8
+Mariagerfjord,2011,Mænd,40.7
+Mariagerfjord,2015,Mænd,42.0
+Mariagerfjord,2019,Mænd,43.3
+Mariagerfjord,2022,Mænd,44.3
+Mariagerfjord,2007,Kvinder,41.6
+Mariagerfjord,2011,Kvinder,42.4
+Mariagerfjord,2015,Kvinder,43.7
+Mariagerfjord,2019,Kvinder,44.8
+Mariagerfjord,2022,Kvinder,45.8
+Morsø,2007,I alt,42.2
+Morsø,2011,I alt,43.3
+Morsø,2015,I alt,44.6
+Morsø,2019,I alt,45.6
+Morsø,2022,I alt,46.2
+Morsø,2007,Mænd,41.1
+Morsø,2011,Mænd,42.4
+Morsø,2015,Mænd,43.7
+Morsø,2019,Mænd,44.7
+Morsø,2022,Mænd,45.3
+Morsø,2007,Kvinder,43.3
+Morsø,2011,Kvinder,44.1
+Morsø,2015,Kvinder,45.5
+Morsø,2019,Kvinder,46.6
+Morsø,2022,Kvinder,47.1
+Rebild,2007,I alt,39.3
+Rebild,2011,I alt,40.1
+Rebild,2015,I alt,41.2
+Rebild,2019,I alt,41.5
+Rebild,2022,I alt,41.8
+Rebild,2007,Mænd,38.7
+Rebild,2011,Mænd,39.5
+Rebild,2015,Mænd,40.6
+Rebild,2019,Mænd,40.8
+Rebild,2022,Mænd,41.2
+Rebild,2007,Kvinder,39.9
+Rebild,2011,Kvinder,40.7
+Rebild,2015,Kvinder,41.9
+Rebild,2019,Kvinder,42.2
+Rebild,2022,Kvinder,42.5
+Thisted,2007,I alt,41.1
+Thisted,2011,I alt,42.1
+Thisted,2015,I alt,43.3
+Thisted,2019,I alt,44.2
+Thisted,2022,I alt,44.8
+Thisted,2007,Mænd,39.9
+Thisted,2011,Mænd,41.0
+Thisted,2015,Mænd,42.3
+Thisted,2019,Mænd,43.3
+Thisted,2022,Mænd,44.1
+Thisted,2007,Kvinder,42.3
+Thisted,2011,Kvinder,43.2
+Thisted,2015,Kvinder,44.2
+Thisted,2019,Kvinder,45.0
+Thisted,2022,Kvinder,45.6
+Vesthimmerlands,2007,I alt,41.0
+Vesthimmerlands,2011,I alt,41.8
+Vesthimmerlands,2015,I alt,42.9
+Vesthimmerlands,2019,I alt,44.0
+Vesthimmerlands,2022,I alt,45.1
+Vesthimmerlands,2007,Mænd,40.0
+Vesthimmerlands,2011,Mænd,40.9
+Vesthimmerlands,2015,Mænd,42.0
+Vesthimmerlands,2019,Mænd,43.2
+Vesthimmerlands,2022,Mænd,44.4
+Vesthimmerlands,2007,Kvinder,41.9
+Vesthimmerlands,2011,Kvinder,42.7
+Vesthimmerlands,2015,Kvinder,43.7
+Vesthimmerlands,2019,Kvinder,44.9
+Vesthimmerlands,2022,Kvinder,45.8
+Aalborg,2007,I alt,39.4
+Aalborg,2011,I alt,39.6
+Aalborg,2015,I alt,39.8
+Aalborg,2019,I alt,40.0
+Aalborg,2022,I alt,40.2
+Aalborg,2007,Mænd,38.2
+Aalborg,2011,Mænd,38.6
+Aalborg,2015,Mænd,38.7
+Aalborg,2019,Mænd,39.0
+Aalborg,2022,Mænd,39.3
+Aalborg,2007,Kvinder,40.6
+Aalborg,2011,Kvinder,40.7
+Aalborg,2015,Kvinder,40.9
+Aalborg,2019,Kvinder,41.0
+Aalborg,2022,Kvinder,41.2

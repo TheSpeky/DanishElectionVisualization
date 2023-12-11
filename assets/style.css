@@ -1,0 +1,133 @@
+
+
+hr.rounded {
+  margin-top: 5%;
+  border-top: 10px solid rgb(0, 132, 255);
+  border-radius: 5px;
+}
+
+#reset {
+  color: red;
+  background-color: white;
+  border-color: red;
+}
+
+#reset:focus {
+  box-shadow: none;
+}
+
+#open:focus {
+  box-shadow: none;
+}
+
+/* restyle radio items */
+.radio-group .form-check {
+  padding-left: 0;
+}
+  
+.radio-group .btn-group > .form-check:not(:last-child) > .btn {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+
+}
+
+.radio-group .btn-group .btn {
+  background-color: white;
+  width: 8vw;
+  font-size: 1.2vw;
+}
+
+.radio-group .btn-group .btn:hover {
+  color: rgb(0, 123, 255);
+}
+
+
+
+.radio-group .btn-group > .form-check:not(:first-child) > .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-left: -1px;
+
+} 
+
+/* remove circle from radio button*/
+input[type="radio"] {
+  visibility:hidden;
+}
+
+/* Background */
+#background {
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: white;
+  height: 100%;
+  min-height: 100%;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1%;
+  justify-content: space-between;
+
+}
+
+#selection-container {
+  width: 40%;
+  padding:2%;
+  padding-bottom: 0%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  float: left;
+  margin: 0px;
+}
+
+#toggles {
+  width: 40%;
+  padding:2%;
+  padding-bottom: 0%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  float: left;
+  margin: 0px;
+}
+
+#bar-style {
+  width: 55%;
+  margin: 0%;
+  padding: 0%;
+}
+
+#map-style {
+  width: 50%;
+  margin: 0%;
+  padding: 0%;
+  background-color: white;
+}
+
+#scatter-style {
+  width: 50%;
+  margin: 0%;
+  padding: 0%;
+  background-color: white;
+}
+
+#top-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0%;
+}
+
+#bottom-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 100%;
+  margin: 0%;
+  background-color: white;
+}
+
