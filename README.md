@@ -1,4 +1,4 @@
-# DanishElectionVisualization
+# Danish Election Visualization
 This is a data visualization project to show Danish election results for the years 2007 to 2022 and correlate them with other socioeconomic data. The project uses Python, Plotly and Dash to create interactive web-based graphs and maps.
 
 To run the project, you need to install the requirements in `requirements.txt` and run `python app.py`. This will launch a local server that you can access from your browser.
