@@ -21,5 +21,6 @@ Here we extracted only the columns of population count, municipality and quarter
 **Crime data.** In Statistics Denmark it has ID: STRAF22. It contains the number of reported crimes for each municipality, type of crime, whether it was brought up to court and years in range 2007-2022. Here we extracted the count for all municipalities, any crime and the year where there was an election. This was normalized to permile with the population data for the municipalities.
 
 # Map data
-Here we provide two GeoJson files for the map of the municipalities of denmark. "kommuner_geojson.json" is a compressed version of kommuner.topojson from here https://github.com/Neogeografen/dagi/tree/master/topojson. 
-"cartogram.json" is our own created cartogram of the danish municipalities, the goal of this cartogram is described in the project README.md.
+Here we provide two GeoJson files for the map of the municipalities of denmark. <br>
+**kommuner_geojson.json** is a compressed version of kommuner.topojson from here https://github.com/Neogeografen/dagi/tree/master/topojson. <br>
+**cartogram.json** is our own created cartogram of the danish municipalities, the goal of this cartogram is described in the project README.md.
